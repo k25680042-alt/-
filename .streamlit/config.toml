@@ -1,0 +1,3 @@
+[server]
+# 큰 영상도 올릴 수 있도록 최대 10GB
+maxUploadSize = 10240

@@ -8,3 +8,10 @@ venv/
 *.jpg
 *.jpeg
 .streamlit/secrets.toml
+
+# 유튜브 업로드 (개인 로그인 정보 - 절대 올리면 안 됨)
+client_secret*.json
+token.json
+schedule_state.json
+업로드할영상/
+업로드완료/
